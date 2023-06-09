@@ -22,7 +22,7 @@ On the surface level, it might seem like the model performed poorly, however, up
 - Opendatasets
 <br/>
 
-#### Data
+### Data
 The [data](https://www.kaggle.com/datasets/rmisra/news-category-dataset?datasetId=32526&sortBy=voteCount) used for this project was gotten from Kaggle.
 
 The dataset contains around 210k news headlines from 2012 to 2022 from HuffPost. This is one of the biggest news datasets and can serve as a benchmark for a variety of computational linguistic tasks.
@@ -37,9 +37,9 @@ The dataset has 6 features:
 - date: publication date of the article.
 - with our target (category) having 42 distinct values.
 
-#### Model Architecture
+### Model Architecture
 ![image](https://github.com/Jeremyugo/News-Category-Classifier/assets/36512525/14a68736-b809-442a-9511-ee3f83bbf83c)
 
 
-#### Model predictions
+### Model predictions
 ![image](https://github.com/Jeremyugo/News-Category-Classifier/assets/36512525/f7bb790b-544a-4da5-8940-4df73e84b3cf)
