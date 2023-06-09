@@ -2,7 +2,10 @@
 
 This repository contains a deep learning project where a custom keras function model was built to classify news categories using three (3) input features. 
 The model was trained on 125,000 + instances with forty-two (42) categories as the target, and achieved a test set accuracy of `70%`, which is significantly 
-higher that other [models](https://www.kaggle.com/datasets/rmisra/news-category-dataset/code?datasetId=32526&sortBy=voteCount) trained using using the same data.
+higher that other [models](https://www.kaggle.com/datasets/rmisra/news-category-dataset/code?datasetId=32526&sortBy=voteCount) trained using using the same data, with the exception of notebooks:
+
+- using a pre-trained BERT model with 335 million paramteters - 74% accuracy
+- using eleven (11) classes as opposed to all forty-two (42) classes - 72% accuracy
 
 ![image](https://github.com/Jeremyugo/News-Category-Classifier/assets/36512525/cfe0172a-e8c2-46ee-b6bf-eb328aea4e55)
 
