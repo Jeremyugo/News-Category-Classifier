@@ -9,7 +9,7 @@ higher that other [models](https://www.kaggle.com/datasets/rmisra/news-category-
 On the surface level, it might seem like the model performed poorly, however, upon inspection of the misclassified instances, we can see how similar each category is 
 (probably because they share keywords or authors) mkaing it difficult for the model to accurately distinguis each category. 
 
-#### Packages used for this project include:
+### Packages used for this project include:
 - Tensorflow
 - Keras
 - Numpy
